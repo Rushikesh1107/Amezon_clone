@@ -1,6 +1,6 @@
 {
     "name": "Amexon PRP",
-    "display": "standalon",
+    "display": "standalone",
     "start_url": "./",
     "icons": [
         {
